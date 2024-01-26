@@ -1,5 +1,5 @@
-module github.com/chrede88/qubtTemplate
+module github.com/paulkannan/qubtTemplate
 
 go 1.21.6
 
-require github.com/chrede88/qubt v1.2.5 // indirect
+require github.com/paulkannan/qubt v1.2.5 // indirect
